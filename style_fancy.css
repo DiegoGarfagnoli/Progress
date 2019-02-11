@@ -1,0 +1,86 @@
+body {
+	font-family: sans-serif;
+	margin: 5px; 
+	padding: 5px; 
+	color: #407040;
+}
+#top {
+	height: 220px;
+	background-color: black;
+	
+}
+#foot {
+	clear: both;
+	height: 50px;
+	color: #ccc;
+	float: left;
+	padding-bottom: 40px;
+	padding: 5px;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+#logo {
+	background-image: url(imagenes/diego_garfagnoliv2.png);
+	width: 230px;
+	height: 210px;
+	float: left;
+
+}
+
+#post{
+	width: 75%;
+	float: left;
+	height: auto;
+	line-height: 1.5;
+	padding: 5px;
+	
+}
+#sidebar {
+	width: 20%;
+	height: 500%;
+	color: blue;
+	float: right;
+	font-size: 11px;
+	background-position: justify;
+	
+	
+}
+#parte_barra_1 {
+	font-family: verdana;
+}
+#parte_barra_2 {
+	font-family: arial;
+}
+
+/* Clases . */
+.contenedor {
+    margin: 0 left;
+	width: 978px;
+	height: auto;
+}
+
+p {
+	color: blue;
+	text-align: justify;
+	
+}
+
+/* Enlaces */
+nav {
+	margin-top: 15px;
+
+}
+#nav_d {
+	float: right;
+	padding: 0px 10px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #eee;
+	
+}
+ul li a {
+	text-decoration: none;
+}
